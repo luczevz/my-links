@@ -1,8 +1,13 @@
+
+/* UNIVERSAL SELECT */
+
 * {
     margin: 0;
     padding: 0;
 }
 
+/* 
+TYPE SELECT */
 
 body {
     background: rgb(236, 12, 50);
@@ -10,6 +15,8 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif
 }
 
+/* 
+TYPE SELECT */
 img {
     width: 320px;
     border-radius: 50%;
@@ -19,6 +26,8 @@ img {
 
 }
 
+/* 
+TYPE SELECT */
 h1 {
 
     color: white;
@@ -28,10 +37,14 @@ h1 {
 
 }
 
+/* 
+TYPE SELECT */
 p {
     color: white;
     font-weight: bold;
 }
+
+
 
 ul {
     margin-top: 35px;
@@ -86,3 +99,6 @@ footer {
     margin-left: auto;
     margin-right: auto;
 }
+
+
+/* ID SELECT UTILIZANDO MAIS PARA ID = EXEMPLO ID = DEVLUCAS */
